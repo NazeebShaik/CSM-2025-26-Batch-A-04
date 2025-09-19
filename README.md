@@ -1,0 +1,1 @@
+Real-Time Estimation of Remaining Useful Life and Fair Pricing Strategy for EV Battery Swapping Stations Using Machine Learning<img width="3205" height="122" alt="image" src="https://github.com/user-attachments/assets/addd87b4-36cc-4479-ab93-0b0533f16866" />
